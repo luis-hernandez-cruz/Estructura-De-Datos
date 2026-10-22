@@ -1,5 +1,5 @@
 ﻿// Programa 5
-// Invertir el orden de los digitos de un número entero positivo mediante llamadas recursivas.
+// Invertir el orden de los dígitos de un número entero positivo mediante llamadas recursivas.
 using System.Text;
 
 class Program
